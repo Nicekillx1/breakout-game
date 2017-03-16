@@ -11,7 +11,7 @@ import gamestates.Play;
 public class Ball extends GameObjects {
 
 	private Shape hitbox, hitbox2;
-	private Image img;
+	private Image img,img2;
 	private int radius;
 	private int y, x;
 	private final float g = 0.0000681f;
